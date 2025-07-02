@@ -1,0 +1,8 @@
+D:\白钧元\BeWorthToBuy\BeWorthToBuy\BeWorthToBuy\bin\Release\BeWorthToBuy.exe
+D:\白钧元\BeWorthToBuy\BeWorthToBuy\BeWorthToBuy\bin\Release\BeWorthToBuy.pdb
+D:\白钧元\BeWorthToBuy\BeWorthToBuy\BeWorthToBuy\obj\Release\BeWorthToBuy.Form1.resources
+D:\白钧元\BeWorthToBuy\BeWorthToBuy\BeWorthToBuy\obj\Release\BeWorthToBuy.Properties.Resources.resources
+D:\白钧元\BeWorthToBuy\BeWorthToBuy\BeWorthToBuy\obj\Release\BeWorthToBuy.csproj.GenerateResource.cache
+D:\白钧元\BeWorthToBuy\BeWorthToBuy\BeWorthToBuy\obj\Release\BeWorthToBuy.csproj.CoreCompileInputs.cache
+D:\白钧元\BeWorthToBuy\BeWorthToBuy\BeWorthToBuy\obj\Release\BeWorthToBuy.exe
+D:\白钧元\BeWorthToBuy\BeWorthToBuy\BeWorthToBuy\obj\Release\BeWorthToBuy.pdb

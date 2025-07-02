@@ -1,0 +1,9 @@
+D:\白钧元\BeWorthToBuy\BeWorthToBuy\BeWorthToBuy\bin\Debug\BeWorthToBuy.exe
+D:\白钧元\BeWorthToBuy\BeWorthToBuy\BeWorthToBuy\bin\Debug\BeWorthToBuy.pdb
+D:\白钧元\BeWorthToBuy\BeWorthToBuy\BeWorthToBuy\obj\Debug\BeWorthToBuy.csproj.AssemblyReference.cache
+D:\白钧元\BeWorthToBuy\BeWorthToBuy\BeWorthToBuy\obj\Debug\BeWorthToBuy.Form1.resources
+D:\白钧元\BeWorthToBuy\BeWorthToBuy\BeWorthToBuy\obj\Debug\BeWorthToBuy.Properties.Resources.resources
+D:\白钧元\BeWorthToBuy\BeWorthToBuy\BeWorthToBuy\obj\Debug\BeWorthToBuy.csproj.GenerateResource.cache
+D:\白钧元\BeWorthToBuy\BeWorthToBuy\BeWorthToBuy\obj\Debug\BeWorthToBuy.csproj.CoreCompileInputs.cache
+D:\白钧元\BeWorthToBuy\BeWorthToBuy\BeWorthToBuy\obj\Debug\BeWorthToBuy.exe
+D:\白钧元\BeWorthToBuy\BeWorthToBuy\BeWorthToBuy\obj\Debug\BeWorthToBuy.pdb
